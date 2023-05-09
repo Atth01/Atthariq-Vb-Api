@@ -1,0 +1,13 @@
+C:\App\API\API\obj\x86\Debug\API.Form1.resources
+C:\App\API\API\obj\x86\Debug\API.Resources.resources
+C:\App\API\API\obj\x86\Debug\API.vbproj.GenerateResource.Cache
+C:\App\API\API\bin\Debug\API.exe
+C:\App\API\API\bin\Debug\API.pdb
+C:\App\API\API\bin\Debug\API.xml
+C:\App\API\API\obj\x86\Debug\API.exe
+C:\App\API\API\obj\x86\Debug\API.xml
+C:\App\API\API\obj\x86\Debug\API.pdb
+C:\App\API\API\obj\x86\Debug\API.vbprojResolveAssemblyReference.cache
+C:\App\API\API\bin\Debug\Newtonsoft.Json.dll
+C:\App\API\API\bin\Debug\Newtonsoft.Json.pdb
+C:\App\API\API\bin\Debug\Newtonsoft.Json.xml
